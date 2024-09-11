@@ -1,0 +1,10 @@
+# Node.js
+__pycache__/
+test-backend
+src/__pycache__/
+src/mocks/__pycache__/
+src/routes/__pycache__/
+
+
+# Environment variables
+.env
